@@ -1,115 +1,221 @@
 
-<div align="center">
+<!--
+  GitHub Profile README
+  Repository name must match your GitHub username.
+-->
 
-# Hi, I'm Usman Farooq 👋
+<h1 align="center">Hi 👋, I'm Engr. Mr. Usman</h1>
 
-### Full Stack Software Engineer
+<h3 align="center">
+  Software Engineer | Full Stack Developer | Founder & CEO
+</h3>
 
-Building modern, scalable and user-focused software solutions.
+<p align="center">
+  Building Modern, Scalable & High-performance Digital Solutions.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://engr-mr-usman-portfolio-c1gd-bay.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/engr-mr-usman)
-[![Company](https://img.shields.io/badge/Company-PSNS-7C3AED?style=for-the-badge)](https://primesoftnoxsolutions.com)
-
-</div>
+<p align="center">
+  <a href="https://engr-mr-usman-portfolio-c1gd-bay.vercel.app/">Portfolio Website</a>
+  &nbsp;/&nbsp;
+  <a href="https://wa.me/+923106565892">WhatsApp</a>
+  &nbsp;/&nbsp;
+  <a href="mailto:engr.mr.usman@gmail.com">Email</a>
+  &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science graduate and Full Stack Software Engineer passionate about building reliable, efficient and scalable applications.
+I'm a passionate Software Engineer and Full Stack Developer
+from Multan, Pakistan, specializing in building Modern Web
+Applications, 
+Modern & Fast Performance Websites, Entertainment OTT Plateform, Scalable Backend Systems, & User-friendly
+Digital Experiences.
 
-- 🎓 Bachelor's in Computer Science
-- 💼 Founder & CEO at Prime Softnox Solutions
-- 🌍 Based in Multan, Pakistan
-- 💻 Interested in Full Stack Development and Software Engineering
-- 🚀 Building SaaS, ERP, POS and custom software solutions
-- 📚 Always learning new technologies and improving my skills
-
----
-
-## 🛠️ Technical Skills
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- 🔭 Founder & CEO of **Prime Softnox Solutions**
+- 💼 3+ Years of Development Experience
+- 💡 Interested in SaaS, ERP, POS and Custom Software Development
+- 🎓 BS Computer Science from Bahauddin Zakariya University
+- ☁️ Hands-on expertise in Cloud Computing and Networking
+- 🌱 Continuously learning modern technologies and software architecture
+- 🤝 Open to collaboration, freelance projects and opportunities
+- 📍 Based in Multan, Pakistan
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| School Management System | School administration and student management solution |
-| Inventory Management | Inventory and business management application |
-| Personal Portfolio | Professional developer portfolio |
-| ProEdu LMS | Learning management system |
-
----
-
-## 💼 Company
+## 🏢 Company
 
 ### Prime Softnox Solutions
 
 Founder & CEO
 
-Developing software solutions including SaaS applications, POS systems, ERP systems and custom software.
+A software company focused on delivering modern digital
+products and custom software solutions.
 
-🌐 https://primesoftnoxsolutions.com
+Our services include:
+
+- SaaS Applications
+- Point of Sale (POS) Systems
+- Enterprise Resource Planning (ERP)
+- Custom Software Development
+- Business Automation Solutions
+
+🌐 Website: https://primesoftnoxsolutions-2.vercel.app/
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Tech Stack & Skills
 
-<div align="center">
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=engr-mr-usman&show_icons=true&theme=default&hide_border=true" height="165" />
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,svelte" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engr-mr-usman&layout=compact&hide_border=true&theme=default" height="165" />
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=engr-mr-usman&theme=default&hide_border=true" width="100%" />
+### Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,prisma" />
+</p>
 
-</div>
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github" />
+</p>
+
+### Other Tools & Technologies
+
+- Zod
+- GSAP
+- AWS EC2, S3 & Lambda
+- Cloud Computing
+- Computer Networking
+
+---
+
+## 🚀 Featured Projects
+
+### 1. School Management System
+A complete school management solution for student records,
+attendance tracking, grades and academic administration.
+
+**Technologies:** React, Vite, Node.js, Express.js, MongoDB,
+Tailwind CSS, Redux Toolkit, Session Authentication & RBAC.
+
+### 2. Entertainment OTT Plateform
+Qayadat Play | Watch Original Series, Latest Episodes & Movies in 4K, 1080p Full HD+ & Crystal Clear Results
+
+**Technologies:** Next.js, Express.js, Node.js, React, MongoDB,
+Tailwind CSS, & Oauth.
+
+🌐 Website: https://qayadatplay-beta.vercel.app/
+
+### 3. Personal Portfolio Website
+A modern and responsive portfolio website showcasing
+my professional journey, skills and projects.
+
+**Technologies:** HTML5, CSS3, JavaScript, Tailwind CSS, GSAP.
+
+### 4. ProEdu LMS
+A Learning Management System for managing courses,
+students, assignments and educational workflows.
+
+**Technologies:** React, Node.js, Express.js, MongoDB,
+Tailwind CSS and RBAC.
+
+### 5. Blog Website
+A modern blogging platform for publishing articles,
+browsing categories and reading content.
+
+**Technologies:** HTML5, CSS3, JavaScript and Tailwind CSS.
+
+### 6. Thumbnail Go
+An AI-powered thumbnail generation application that
+turns ideas into attractive visual thumbnails.
+
+**Technologies:** React, Vite, Node.js, Express.js and Tailwind CSS.
+
+🔗 Explore more projects:
+https://engr-mr-usman-portfolio-c1gd-bay.vercel.app/projects/
+
+---
+
+## 🏆 Achievements & Certifications
+
+- Google AI Essentials by Google
+- Technical Support Fundamentals by Google
+- Critical Infrastructure Protection by OPSWAT Academy
+- HP LIFE Ambassador by HP LIFE
+- Business Email by HP LIFE
+- IT for Business Success by HP LIFE
+- Job Interviewing by HP LIFE
+- Build a Free Website with WordPress by Coursera
+- Using Basic Formulas and Functions in Microsoft Excel by Coursera
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science (BSCS)**
+
+Bahauddin Zakariya University, Multan
+
+2020 – 2024
+
+**Cloud Computing Certification**
+
+Global Tech Institute
+
+2023 – 2024
+
+**Computer Networking Diploma**
+
+Network Academy Multan
+
+2022 – 2023
+
+---
+
+## 📊 Professional Highlights
+
+- 12+ Projects Completed
+- 3+ Years of Experience
+- 10+ Technologies
+- 15+ Happy Clients
+- Continuous Learning & Development
 
 ---
 
 ## 🤝 Connect With Me
 
-- **Portfolio:** https://engr-mr-usman-portfolio-c1gd-bay.vercel.app/
-- **GitHub:** https://github.com/engr-mr-usman
-- **Company:** https://primesoftnoxsolutions.com
-- **Email:** engr.mr.usman@gmail.com
+<p align="center">
+  <a href="https://engr-mr-usman-portfolio-c1gd-bay.vercel.app/">
+    Portfolio
+  </a>
+  |
+  <a href="mailto:engr.mr.usman@gmail.com">
+    Email
+  </a>
+  |
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    GitHub
+  </a>
+</p>
 
----
+<p align="center">
+  <b>Let's build something amazing together! 🚀</b>
+</p>
 
-<div align="center">
-
-### "Turning ideas into meaningful software."
-
-⭐ Thanks for visiting my profile!
-
-</div>
+<p align="center">
+  <i>Turning ideas into powerful digital solutions.</i>
+</p>
